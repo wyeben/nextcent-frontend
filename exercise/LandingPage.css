@@ -679,11 +679,11 @@ gap: -96px;
  .div21{
   display: flex;
 width: 1440px;
-padding: 32px 0px;
+padding: 32px 162px;
 flex-direction: column;
 align-items: center;
 gap: 32px;
-background: var(--neutral-silver, #F5F7FA);
+/* background: var(--neutral-silver, #F5F7FA); */
 margin-top: 5%;
  }
  .div21child1{
@@ -714,15 +714,10 @@ border: none;
   
  }
  .footer1{
+  justify-content: center;
   display: flex;
-padding: 64px 165px;
-align-items: flex-start;
-gap: 125px;
-background: var(--neutral-black, #263238);
+  margin-top: 0%;
  }
  .footerimage{
-  display: flex;
-  justify-content: center;
-  width: 2480px;
-  align-items: flex-start;
+  
  }
